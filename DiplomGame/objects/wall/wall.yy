@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"o_doorCafe",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"wall",
+  "eventList":[],
   "managed":true,
-  "name":"o_doorCafe",
+  "name":"wall",
   "overriddenProperties":[],
   "parent":{
-    "name":"doors",
-    "path":"folders/Объекты/objects/doors.yy",
+    "name":"objects",
+    "path":"folders/Объекты/objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,11 +26,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"s_door",
-    "path":"sprites/s_door/s_door.yy",
+    "name":"Cube",
+    "path":"sprites/Cube/Cube.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
