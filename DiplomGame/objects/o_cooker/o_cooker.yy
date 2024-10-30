@@ -1,18 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"cameraChecker",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"o_cooker",
+  "eventList":[],
   "managed":true,
-  "name":"cameraChecker",
+  "name":"o_cooker",
   "overriddenProperties":[],
   "parent":{
-    "name":"background",
-    "path":"folders/Объекты/background.yy",
+    "name":"kitchen",
+    "path":"folders/Объекты/objects/cafe/kitchen.yy",
   },
-  "parentObjectId":null,
-  "persistent":true,
+  "parentObjectId":{
+    "name":"wall",
+    "path":"objects/wall/wall.yy",
+  },
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -29,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"coocker",
+    "path":"sprites/coocker/coocker.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

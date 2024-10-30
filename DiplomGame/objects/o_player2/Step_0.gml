@@ -17,5 +17,8 @@ if keyboard_check_pressed(vk_up){
 	}
 }
 
+if instance_exists(o_buyWinCafe) and keyboard_check_pressed(vk_numpad0) and global.openBuyPlayer == o_player2
+	instance_destroy(o_buyWinCafe)
+
 move_wrap(1,0,32*2)
 
