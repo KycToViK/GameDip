@@ -1,20 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"o_cooker",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"ss",
+  "eventList":[],
   "managed":true,
-  "name":"o_cooker",
+  "name":"ss",
   "overriddenProperties":[],
   "parent":{
-    "name":"kitchen",
-    "path":"folders/Объекты/objects/cafe/kitchen.yy",
+    "name":"gameplay",
+    "path":"folders/Объекты/gameplay.yy",
   },
-  "parentObjectId":{
-    "name":"wall",
-    "path":"objects/wall/wall.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"cooker",
-    "path":"sprites/cooker/cooker.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
