@@ -8,3 +8,4 @@ x2z = []
 y2z = []
 
 pressedKey = -1
+group = -1

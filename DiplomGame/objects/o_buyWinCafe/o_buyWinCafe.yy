@@ -10,8 +10,8 @@
   "name":"o_buyWinCafe",
   "overriddenProperties":[],
   "parent":{
-    "name":"kitchen",
-    "path":"folders/Объекты/objects/cafe/kitchen.yy",
+    "name":"buy",
+    "path":"folders/Объекты/objects/cafe/kitchen/buy.yy",
   },
   "parentObjectId":null,
   "persistent":false,

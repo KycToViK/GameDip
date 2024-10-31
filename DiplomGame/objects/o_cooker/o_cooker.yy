@@ -8,8 +8,8 @@
   "name":"o_cooker",
   "overriddenProperties":[],
   "parent":{
-    "name":"kitchen",
-    "path":"folders/Объекты/objects/cafe/kitchen.yy",
+    "name":"furniture",
+    "path":"folders/Объекты/objects/cafe/kitchen/furniture.yy",
   },
   "parentObjectId":{
     "name":"wall",

@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"ss",
+  "%Name":"o_storage",
   "eventList":[],
   "managed":true,
-  "name":"ss",
+  "name":"o_storage",
   "overriddenProperties":[],
   "parent":{
-    "name":"gameplay",
-    "path":"folders/Объекты/gameplay.yy",
+    "name":"furniture",
+    "path":"folders/Объекты/objects/cafe/kitchen/furniture.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"storage",
+    "path":"sprites/storage/storage.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
